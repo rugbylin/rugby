@@ -1,0 +1,10 @@
+basic.forever(function () {
+    basic.showString("rugby!?")
+    basic.showIcon(IconNames.Sad)
+    basic.showString("Rugby！？")
+    basic.showIcon(IconNames.Sad)
+    basic.showString("RUGBY!?")
+    basic.showIcon(IconNames.Sad)
+    basic.showString("At HOME!?")
+    basic.showIcon(IconNames.Heart)
+})
